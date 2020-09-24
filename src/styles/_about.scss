@@ -11,6 +11,12 @@
   margin: 10px;
 }
 
+.table {
+  th, td {
+    display : block;
+  }
+}
+
 .user {
   text-align: center;
   font-size: 60px;
