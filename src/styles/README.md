@@ -14,9 +14,9 @@ _about.scss
 _projects.scss
 _footer.scss
 
-- lib/normalize.scss
--    /fontawesome.scss
--    /devicon.scss
+lib/normalize.scss
+   /fontawesome.scss
+   /devicon.scss
 
 
 ```
