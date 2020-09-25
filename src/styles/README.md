@@ -3,12 +3,13 @@
 test for browser
 https://www.sassmeister.com/
 
-koala
-
+###### linux
+koala 
 prepros
-
 gulp
 
+###### windows
+Atom + node-sass
 
 ```
 _var.scss
