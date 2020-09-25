@@ -9,7 +9,7 @@ prepros
 gulp
 
 ###### windows
-prepos + ruby
+Not recommended.
 
 Atom + node-sass
 
