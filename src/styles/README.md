@@ -9,6 +9,8 @@ prepros
 gulp
 
 ###### windows
+prepos + ruby
+
 Atom + node-sass
 
 ```
