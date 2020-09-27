@@ -19,6 +19,7 @@
 
 
 <!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- -->
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 <div class="user-projects">
   <div class="images-right">
     <img alt="mountains" src="{{ "/assets/img/fr6.jpg" | prepend: site.baseurl }}" />
@@ -28,6 +29,8 @@
     <ul>
       <li>
       2020年09月25日
+      Published on {{ page.date | date: date_format }}
+      <!- page85 ->
       </li>
     </ul>
     <p>
