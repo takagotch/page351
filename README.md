@@ -3,9 +3,10 @@
 [page351](https://takagotch.github.io/page351/)
 
 
-######
+###### Official Home Page
 
-# Particle Jekyll Theme
+
+ Particle Jekyll Theme
 ---
 
 ```
